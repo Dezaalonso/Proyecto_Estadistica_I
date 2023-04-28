@@ -1,0 +1,79 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+
+##  **PG1- PROYECTO **  
+
+![](Utec-logo.jpg){width=400 height=400}
+
+**Curso:**   *_ESTADISTICA Y PROBABILIDADES I_*
+
+**Docente:**  *_Miguel Ángel Sáenz Egúsquiza_*
+
+| INTEGRANTES                       | CÓDIGO             |
+| --------------------------------- | ------------------ |
+| Chavez Alarcon Diana Prissyla     |  202110529         |
+| Calderon Flores Marvin Andy       |  202220139         |
+| Cordova Castillo Jocmi  Lizet     |  202220290         |
+| Deza Luna Victoria Adrian Alonso  |  202210116         |
+| Fanante Moreno Cinthia Nathalia   |  202120212         |
+
+
+## 2023
+
+
+
+***
+
+
+
+#### **TEMA:** **_Análisis estadístico del valor nutricional de las comidas que ofrecen los restaurantes con franquicias de comida rápida_**
+
+
+
+
+##### OBJETIVOS
+* OBJETIVO GENERAL
+  + Analizar el aporte nutricional que contienen los menús de 8 restaurantes de comida rápida (Mcdonalds, Chick Fil-A, Sonic, Arbys, Burger King, Dairy Queen, Subway y Taco Bell).
+  
+  
+* OBJETIVOS ESPECÍFICOS
+  + Identificar el plato con mayor contenido calórico de cada restaurante utilizando el lenguaje de programación RStudio.
+  
+  + Identificar las comidas que sobrepasan los valores saludables de calorías, grasa saturadas, colesterol, sodio y proteínas, en los platillos principales que ofrecen los restaurantes.
+  
+  + Comparar los resultados del aporte calórico que ofrecen los platos de cada restaurante, para determinar qué restaurante brinda alimentos con menos calorías.
+
+
+##### RELEVANCIA
+   + El estudio nutricional de las comidas rápidas es un tema de interés común porque su consumo es muy frecuente en las personas, incluyendo a los estudiantes universitarios de la UTEC. En este sentido buscamos evaluar el aporte calórico y energético que brindan las comidas instantáneas en los 8 restaurantes más conocidos y así  categorizarlos de acuerdo a su aporte nutricional. 
+   
+##### FACTIBILIDAD 
+   + Un estudio realizado por INNOVARE revista de Ciencia y Tecnología a cargo de Alexandra María Cáceres Aguilar muestra cómo la insdustrialización alimentaria ha generado un desequilibrio en la ingesta calórica [INNOVARE]( https://www.camjol.info/index.php/INNOVARE/article/view/11406). Bajo este estudio, se busca evaluar a 8 conocidos restaurantes de comida rápida.
+
+
+##### DEFINICIÓN DE LAS VARIABLES
+  + **Nombre del restaurante:** Categórica nominal
+  + **nombre del platillo:** Categórica nominal
+  + **calorías :** Numérica Discreta
+  + **calorias de grasas:** Numérica Discreta
+  + **grasa total:** Numérica Discreta
+  + **grasa saturadas:** Numérica Continua
+  + **grasa trans:** Numérica Continua
+  + **colesterol:** Numérica Discreta
+  + **sodio:** Numérica Discreta
+  + **carbohidratos totales:** Numérica Discreta
+  + **fibra:**Numérica Discreta
+  + **azúcar:**Numérica Discreta
+  + **proteína:**Numérica Discreta
+  + **vitamina a :** Numérica Discreta
+  + **vitamina c :**Numérica Discreta
+  + **calcio:** Numérica Discreta
+  + **sal :**Categórica nominal
+
+
